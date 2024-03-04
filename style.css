@@ -9,4 +9,10 @@ main{
     justify-content: center;
     height: 100vh;
     font-weight: bold;
+    flex-direction: column;
+}
+p{
+    text-decoration: underline;
+    letter-spacing: 30px;
+    text-align: center;
 }
